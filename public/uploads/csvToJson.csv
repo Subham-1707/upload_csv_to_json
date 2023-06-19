@@ -1,0 +1,28 @@
+Handle,Title,Body (HTML),Vendor,Type,Tags,Published,Option1 Name,Option1 Value,Variant Grams,Variant Inventory Qty,Variant Inventory Policy,Variant Fulfillment Service,Variant Price,Variant Compare At Price,Variant Requires Shipping,Variant Taxable,Image Src,Image Position,Image Alt Text,Gift Card,Variant Image,Variant Weight Unit
+chain-bracelet,7 Shakra Bracelet,"7 chakra bracelet, in blue or black.",Company 123,Bracelet,Beads,true,Color,Blue,0,1,deny,manual,42.99,44.99,true,true,https://burst.shopifycdn.com/photos/7-chakra-bracelet_925x.jpg,1,,false,https://burst.shopifycdn.com/photos/navy-blue-chakra-bracelet_925x.jpg,kg
+chain-bracelet,,,,,,,,Black,0,0,deny,manual,42.99,44.99,true,true,https://burst.shopifycdn.com/photos/navy-blue-chakra-bracelet_925x.jpg,2,,,https://burst.shopifycdn.com/photos/7-chakra-bracelet_925x.jpg,kg
+leather-anchor,Anchor Bracelet Mens,Black leather bracelet with gold or silver anchor for men.,Company 123,Bracelet,"Anchor, Gold, Leather, Silver",true,Color,Gold,0,1,deny,manual,69.99,85,true,true,https://burst.shopifycdn.com/photos/anchor-bracelet-mens_925x.jpg,1,,false,https://burst.shopifycdn.com/photos/anchor-bracelet-mens_925x.jpg,kg
+leather-anchor,,,,,,,,Silver,0,0,deny,manual,55,85,true,true,https://burst.shopifycdn.com/photos/anchor-bracelet-for-men_925x.jpg,2,,,https://burst.shopifycdn.com/photos/anchor-bracelet-for-men_925x.jpg,kg
+leather-anchor,,,,,,,,,,,,,,,,,https://burst.shopifycdn.com/photos/leather-anchor-bracelet-for-men_925x.jpg,3,,,,
+bangle-bracelet,Bangle Bracelet,Gold bangle bracelet with studded jewels.,Company 123,Bracelet,"Diamond, Gem, Gold",true,Title,Default Title,0,1,deny,manual,39.99,43.99,true,true,https://burst.shopifycdn.com/photos/bangle-bracelet-with-jewels_925x.jpg,1,,false,,kg
+bangle-bracelet-with-feathers,Boho Bangle Bracelet,Gold boho bangle bracelet with multicolor tassels.,Company 123,Bracelet,Gold,true,Title,Default Title,0,1,deny,manual,42.99,44.99,true,true,https://burst.shopifycdn.com/photos/bangle-bracelet-with-feathers_925x.jpg,1,,false,,kg
+boho-earrings,Boho Earrings,Turquoise globe earrings on 14k gold hooks.,Company 123,Earrings,"Silver, Turquoise",true,Title,Default Title,28,1,deny,manual,27.99,35.99,true,true,https://burst.shopifycdn.com/photos/boho-earrings_925x.jpg,1,,false,,oz
+boho-earrings,,,,,,,,,,,,,,,,,https://burst.shopifycdn.com/photos/inspired-woman_925x.jpg,2,,,,
+boho-earrings,,,,,,,,,,,,,,,,,https://burst.shopifycdn.com/photos/necklace-earrings-set_925x.jpg,3,,,,
+choker-with-bead,Choker with Bead,Black choker necklace with 14k gold bead.,Company 123,Necklace,"Gold, Leather",true,Title,Default Title,0,1,deny,manual,14.99,19.99,true,true,https://burst.shopifycdn.com/photos/black-choker-with-bead_925x.jpg,1,,false,,kg
+choker-with-bead,,,,,,,,,,,,,,,,,https://burst.shopifycdn.com/photos/choker-with-bead_925x.jpg,2,,,,
+choker-with-gold-pendant,Choker with Gold Pendant,"Black cord choker with gold pendant. Beautifully died black leather shapes a choker necklace with findings of 14k yellow gold, displaying gold pendant in a gorgeous balance of dark and light, delicate and strong. <ul>
+<li>14k yellow gold</li>
+<li>Leather</li>
+<li>Length, 12"" with 2.5"" extender</li>
+<li>Width, 0.3""</li>
+<li>Lobster clasp</li>
+<li>Made in USA</li>
+</ul>",Company 123,Necklace,"Choker, Gold, Leather, Pendant",true,Title,Default Title,0,1,deny,manual,29.99,,true,true,https://burst.shopifycdn.com/photos/choker-with-gold-pendant_925x.jpg,1,,false,,kg
+choker-with-gold-pendant,,,,,,,,,,,,,,,,,https://burst.shopifycdn.com/photos/choker-pendant-closeup_925x.jpg,2,,,,
+choker-with-triangle,Choker with Triangle,Black choker with silver triangle pendant.,Company 123,Necklace,"Leather, Silver, Triangle",true,Title,Default Title,0,1,deny,manual,47.99,49.99,true,true,https://burst.shopifycdn.com/photos/choker-with-triangle_925x.jpg,1,,false,,kg
+dainty-gold-neclace,Dainty Gold Necklace,Dainty gold necklace with two pendants.,Company 123,Necklace,"Gold, Pendant",true,Title,Default Title,0,1,deny,manual,63.99,69.99,true,true,https://burst.shopifycdn.com/photos/dainty-gold-necklace_925x.jpg,1,,false,,kg
+dainty-gold-neclace,,,,,,,,,,,,,,,,,https://burst.shopifycdn.com/photos/womens-gold-necklace_925x.jpg,2,,,,
+dreamcatcher-pendant-necklace,Dreamcatcher Pendant Necklace,"Turquoise beaded dream catcher necklace. Silver feathers adorn this beautiful dream catcher, which move and twinkle as you walk.",Sterling Ltd,Necklace,"Dreamcatcher, Pendant, Silver, Turquoise",true,Title,Default Title,0,1,deny,manual,23.99,41.99,true,true,https://burst.shopifycdn.com/photos/dreamcatcher-pendant-necklace_925x.jpg,1,,false,,kg
+dreamcatcher-pendant-necklace,,,,,,,,,,,,,,,,,https://burst.shopifycdn.com/photos/gold-dream-catcher-necklace_925x.jpg,2,,,,
+galaxy-earrings,Galaxy Earrings,"One set of galaxy earrings, with sterling silver clasps.",Sterling Ltd,Earrings,"Blue, Galaxy, Silver",true,Title,Default Title,0,1,deny,manual,37.99,45.99,true,true,https://burst.shopifycdn.com/photos/galaxy-earrings_925x.jpg,1,,false,,kg
